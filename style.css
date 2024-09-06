@@ -21,6 +21,12 @@ main
 	padding: 5%;
 }
 
+.info
+{
+	width:	88%;
+	padding: 0.2rem;
+	margin: auto;
+}
 .qr-code
 {
 	width:	100%;
@@ -32,12 +38,16 @@ main
 {
 	color:		gray;
 	font-size:	0.8rem;
-	padding: 0 .5rem;
 }
 h2
 {
-	padding: 0 .5rem;
 	font-size: 1.2rem;
 }
-
+address
+{
+	padding:	.5rem;
+	text-align:	left;
+	line-height:	80%;
+	font-size:	80%;
+}
 
