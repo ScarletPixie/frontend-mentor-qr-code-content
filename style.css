@@ -3,4 +3,25 @@ html, body
 	padding: 0;
 	margin: 0;
 	background-color: #D6E1F0;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+}
+
+main
+{
+	background-color: white;
+	width: min(25rem, 90vw);
+	text-align: center;
+	border-radius: min(3%, 3vw);
+	overflow: hidden;
+	border: white solid 1px;
+	box-sizing: border-box;
+	padding: 25px;
+}
+
+.instructions
+{
+	font-weight: bold;
 }
