@@ -6,5 +6,5 @@ You need to make the layout work on both desktop and phone screens.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/ScarletPixie/frontend-mentor-qr-code-content)
-- Live Site URL: [Add live site URL here](https://scarletpixie.github.io/frontend-mentor-qr-code-content/)
+- Solution URL: [repository](https://github.com/ScarletPixie/frontend-mentor-qr-code-content)
+- Live Site URL: [live website](https://scarletpixie.github.io/frontend-mentor-qr-code-content/)
